@@ -1,0 +1,9 @@
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\bin\Debug\Valutii.exe.config
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\bin\Debug\Valutii.exe
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\bin\Debug\Valutii.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\obj\Debug\Valutii.Properties.Resources.resources
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\obj\Debug\Valutii.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\obj\Debug\Valutii.exe
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\obj\Debug\Valutii.pdb
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\obj\Debug\Valutii.Form1.resources
+C:\Users\roman\Desktop\Coding\Projects C#\Valutii\Valutii\obj\Debug\Valutii.csprojAssemblyReference.cache
